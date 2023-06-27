@@ -36,7 +36,8 @@ This project was developed using the following technologies:
 - [expo](https://docs.expo.dev/)
 - [react native](https://reactnative.dev/)
 - [typescript](https://www.typescriptlang.org/)
-- [VS Code][vscode] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+- [styled components](https://styled-components.com/)
+- [vs code][vscode] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :memo: License
 
