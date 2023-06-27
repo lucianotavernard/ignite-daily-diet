@@ -37,7 +37,7 @@ This project was developed using the following technologies:
 - [react native](https://reactnative.dev/)
 - [typescript](https://www.typescriptlang.org/)
 - [styled components](https://styled-components.com/)
-- [vs code][vscode] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+- [VS Code][vscode] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :memo: License
 
